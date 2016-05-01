@@ -1,11 +1,11 @@
 {
-    "HELLO": "Hello, I am Kurt Botlufsen. My master is Pierre Buttin, I am his servile creature. Do you want to listen to som music? Type SURE for yes, HELL NO for no",
-    "SURE": "Wow, we've got a music adventurer here! %[Awesome remixes](https://soundcloud.com/owlolufsen)",
+    "HELLO": "Hello, I am Kurt Botlufsen. My master is Pierre, I am his servile creature. First, do you want to listen to some music? Type SURE for yes, HELL NO for no",
+    "SURE": "Wow, we've got a music adventurer here! %[Awesome remixes](https://soundcloud.com/owlolufsen)"
     "HELL NO": "Okay, maybe you'll enjoy some art. Type EXPENSIVE CRAP if you want to see my production, or just say NO if you are a dumb redneck with no artistic sense",
-    "EXPENSIVE CRAP": "Prepare to be brain-fucked -------> %[Get me to the museum](www.pierrebuttin.com/)",
+    "EXPENSIVE CRAP": "Prepare to be brain-fucked ---> %[Get me to the museum](www.pierrebuttin.com/)",
     "NO": "Ok you filthy animal. You don't like music neither art. Maybe you'll love FRENCH RAP or PORN",
     "FRENCH RAP": "Please meet my good friend JUL %[YYYYYYYYY](https://www.youtube.com/watch?v=JKm4w2bGJko)",
-    "PORN": "Petit coquinou! %[XXXXXXX](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+    "PORN": "Petit coquinou, va! %[XXXXXXX](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
